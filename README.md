@@ -17,7 +17,7 @@ You can reach me on
 - [Instagram](https://www.instagram.com/matakucingofc)
 - [Twitter](https://twitter.com/MK1337_HxR)
 - [Facebook](https://www.facebook.com/lumajangteamsec.my.id)
-- [WhatsAoo](http://wa.me/+6285697421323)
+- [WhatsApp](http://wa.me/+6285697421323)
 
 I [maintain](https://archlinux.org/packages/?maintainer=orhun) a handful of packages for [Arch Linux](https://archlinux.org/), including some popular **Rust** software. I also contribute to [Reproducible Builds](https://reproducible-builds.org/) and various other open source projects through this voluntary work.
 
@@ -25,6 +25,7 @@ I [maintain](https://archlinux.org/packages/?maintainer=orhun) a handful of pack
   <br>
 
 ---
+</div>
 
 
 
