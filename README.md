@@ -7,12 +7,24 @@
 <div align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MataKucing-OFC&&show_icons=true&theme=radical" alt="MataKucing's Github Stats"><br>
+<img align="left" src="https://orhun.dev/img/crow.png">
 
-<h4>𝙵𝚘𝚕𝚕𝚘𝚠 𝙵𝚘𝚛 𝙼𝚘𝚛𝚎</h4>
-<a href="https://www.bloglumajangteamsec.my.id/" target="_blank"><img src="https://img.shields.io/website?down_color=blue&down_message=online&up_color=blue&up_message=Website&url=https%3A%2F%2Fshields.io" alt="Website"></a> &nbsp; 
-<a href="https://www.instagram.com/matakucingofc/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> &nbsp; 
-<a href="https://twitter.com/MK1337_HxR/" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a> &nbsp; 
-<a href="https://www.facebook.com/lumajangteamsec/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>  <br>
+### Hey!
+
+I'm someone likes to **write code**.
+
+<br>
+
+You can reach me on
+- [Instagram](https://www.instagram.com/matakucingofc)
+- [Twitter](https://twitter.com/MK1337_HxR)
+- [Facebook](https://www.facebook.com/lumajangteamsec.my.id)
+- [WhatsAoo](http://wa.me/+6285697421323)
+
+I [maintain](https://archlinux.org/packages/?maintainer=orhun) a handful of packages for [Arch Linux](https://archlinux.org/), including some popular **Rust** software. I also contribute to [Reproducible Builds](https://reproducible-builds.org/) and various other open source projects through this voluntary work.
+
+**~** [_Lumajang Team Security_](https://www.bloglumajangteamsec.my.id/)
+  <br>
 
 ---
 
