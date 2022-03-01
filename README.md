@@ -4,8 +4,6 @@
 <img src="https://c.tenor.com/MXDXYyetjDkAAAAd/im-sorry-sad.gif"><br>
 </div>
 
-<div align="center">
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MataKucing-OFC&&show_icons=true&theme=radical" alt="MataKucing's Github Stats"><br>
 <img align="left" src="https://orhun.dev/img/crow.png">
 
@@ -28,6 +26,5 @@ I [maintain](https://archlinux.org/packages/?maintainer=orhun) a handful of pack
 
 ---
 
-</div>
 
 
