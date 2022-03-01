@@ -15,7 +15,7 @@ I'm someone likes to **write code**.
 You can reach me on
 - [Instagram](https://www.instagram.com/matakucingofc)
 - [Twitter](https://twitter.com/MK1337_HxR)
-- [Facebook](https://www.facebook.com/lumajangteamsec.my.id)
+- [Facebook](https://www.facebook.com/lumajangteamsec)
 - [WhatsApp](http://wa.me/+6285697421323)
 
 I'm just a **Newbie** who likes to **write Code!**
