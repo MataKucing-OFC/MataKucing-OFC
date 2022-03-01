@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MataKucing-OFC&&show_icons=true&theme="radical" alt="MataKucing's Github Stats"><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MataKucing-OFC&&show_icons=true&theme=radical alt="MataKucing's Github Stats"><br>
 
 <h4>𝙵𝚘𝚕𝚕𝚘𝚠 𝙵𝚘𝚛 𝙼𝚘𝚛𝚎</h4>
 <a href="https://www.bloglumajangteamsec.my.id/" target="_blank"><img src="https://img.shields.io/website?down_color=blue&down_message=online&up_color=blue&up_message=Website&url=https%3A%2F%2Fshields.io" alt="Website"></a> &nbsp; 
