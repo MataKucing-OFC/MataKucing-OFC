@@ -8,7 +8,7 @@
 
 ### Hey!
 
-I'm someone likes to **write code**.
+I'm someone likes to **hacking?**.
 
 <br>
 
