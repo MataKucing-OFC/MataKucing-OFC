@@ -20,7 +20,7 @@ You can reach me on
 
 I'm just a **Newbie** who likes to **write Code!**
 
-**~** [_Lumajang Team Security_](https://www.bloglumajangteamsec.my.id/)
+**~** [_LXPLOIT_](https://www.bloglumajangteamsec.my.id/)
   <br>
 
 ---
