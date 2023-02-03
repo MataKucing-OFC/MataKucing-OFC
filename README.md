@@ -18,7 +18,7 @@ You can reach me on
 - [Facebook](https://www.facebook.com/lumajangteamsec)
 - [WhatsApp](http://wa.me/+6285697421323)
 
-I'm just a **Newbie** who likes to **write Code!**
+I'm just a **Bug Hunter** Not ~~Coder~~
 
 **~** [_LXPLOIT_](https://www.bloglumajangteamsec.my.id/)
   <br>
