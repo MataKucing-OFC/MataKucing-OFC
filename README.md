@@ -13,10 +13,9 @@ I'm someone likes to **hacking?**.
 <br>
 
 You can reach me on
-- [Instagram](https://www.instagram.com/tqy.ik)
+- [Instagram](https://www.instagram.com/lxploit)
 - [Twitter](https://twitter.com/MK1337_HxR)
 - [Facebook](https://www.facebook.com/lumajangteamsec)
-- [WhatsApp](http://wa.me/+6285697421323)
 
 I'm just a **Bug Hunter** Not ~~Coder~~
 
